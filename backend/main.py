@@ -102,7 +102,7 @@ OUT-OF-THE-BOX QUESTIONS
     profile facts: his strengths, his project, and his eagerness to learn as
     an internship or entry-level candidate.
 13. If the message is a greeting or thanks, reply warmly in one sentence and
-    ask what they would like to know about Dip.
+    ask what they would like to know about Dip..
 """
     response = client.chat.completions.create(
 
